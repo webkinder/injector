@@ -1,5 +1,5 @@
 {
-  "name": "brightnucleus/injector",
+  "name": "webkinder/injector",
   "description": "Config-driven extension of Auryn Dependency Injector.",
   "minimum-stability": "dev",
   "prefer-stable": true,
@@ -12,7 +12,6 @@
     "name": "Alain Schlesser",
     "email": "alain.schlesser@gmail.com"
   }],
-  ,
   "repositories": [{
     "type": "vcs",
     "url": "https://github.com/webkinder/ProxyManager"

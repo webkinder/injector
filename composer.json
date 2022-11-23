@@ -8,16 +8,19 @@
     "php-composter/php-composter-phpcs-psr2": ">=0.2.0"
   },
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Alain Schlesser",
-      "email": "alain.schlesser@gmail.com"
-    }
-  ],
+  "authors": [{
+    "name": "Alain Schlesser",
+    "email": "alain.schlesser@gmail.com"
+  }],
+  ,
+  "repositories": [{
+    "type": "vcs",
+    "url": "https://github.com/webkinder/ProxyManager"
+  }],
   "require": {
     "brightnucleus/exceptions": ">=0.2",
     "brightnucleus/config": ">=0.4.7",
-    "ocramius/proxy-manager": "~2.0"
+    "webkinder/proxy-manager": "2.15.x-dev"
   },
   "autoload": {
     "psr-4": {

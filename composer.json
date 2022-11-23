@@ -1,5 +1,5 @@
 {
-  "name": "webkinder/injector",
+  "name": "brightnucleus/injector",
   "description": "Config-driven extension of Auryn Dependency Injector.",
   "minimum-stability": "dev",
   "prefer-stable": true,
@@ -19,7 +19,7 @@
   "require": {
     "brightnucleus/exceptions": ">=0.2",
     "brightnucleus/config": ">=0.4.7",
-    "webkinder/proxy-manager": "2.15.x-dev"
+    "ocramius/proxy-manager": "2.15.x-dev"
   },
   "autoload": {
     "psr-4": {
